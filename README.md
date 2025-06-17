@@ -1,2 +1,3 @@
 # Vision-Guided-Mobile-Robot-for-Automated-Object-Retrieval
-This project focuses on the development of an automated mobile robot system that leverages computer vision methods for automated object retrieval and sorting.  
+This project focuses on the development of an automated mobile robot system designed to identify and retrieve specific objects within a defined arena. Leveraging advanced computer vision and robotic manipulation techniques, the system integrates an overhead vision setup with a mobile robot. The primary objective was to achieve autonomous detection, navigation, grasping, and relocation of objects based on color, demonstrating a robust solution for automated sorting. Further development of this project could potentially enhance streamlining manufacturing, warehouse management operations etc.
+
