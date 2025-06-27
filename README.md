@@ -18,7 +18,7 @@ One-time estimation of the intrinsic camera parameters is done by capturing mult
 The intrinsic and extrinsic parameters are then used to copmute real world coordinates from pixel coordinates using homography transformations as detailed below. 
 
 ## Cube and Bot Detection and Localisation
-To simplify the task of bot and cube detection, the cubes are made of distinct colors (Red, Green and Blue) and the bot's top is marked with a Magenta colored arrow. Opencv's HSV filter is implemented to mask the pixels corresponding to the cubes and the bot. 
+To simplify the task of bot and cube detection, the cubes are made of distinct colors (Red, Green and Blue) and the bot's top is marked with a Magenta colored arrow. Opencv's HSV filtering and contour detection methods are implemented to mask the pixels corresponding to the cubes and the bot. 
 ## Path-planning and  Control
 
 ## How to use the repo
